@@ -1,0 +1,1 @@
+/* Removed duplicate main.js to avoid conflict with main.jsx */
